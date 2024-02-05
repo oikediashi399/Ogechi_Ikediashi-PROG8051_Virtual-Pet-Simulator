@@ -14,12 +14,7 @@ namespace Ogechi_Ikediashi_PROG8051_Virtual_Pet_Simulator
                 Console.WriteLine("Welcome to Ogechi's Virtual Pet Simulator!");
 
                 // Display pet type options
-                Console.WriteLine("The below is a list of the pet types we offer here.");
-                Console.WriteLine("1. Cat");
-                Console.WriteLine("2. Dog");
-                Console.WriteLine("3. Rabbit");
-                Console.WriteLine("4. Mouse");
-                Console.WriteLine("5. Fish");
+                Console.WriteLine("The below is a list of the pet types we offer here. \n 1. Cat \n 2. Dog \n 3. Rabbit \n 4. Mouse \n 5. Fish");
 
                 Console.WriteLine("");
                 Console.Write("Kindly enter your pet type now: ");
